@@ -1,0 +1,103 @@
+p.last-post-timestamp {
+    width: 100%;
+    bottom: -10px !important;
+    right: -35%;
+}
+
+i.thread-icon {
+    width: 42px;
+    height: 42px;
+    color: #ffffff;
+}
+
+i.circle {
+    background-color: #28ABE2 !important;
+}
+
+.alert-box {
+    width: 100%;
+    padding:10px 22px;
+    vertical-align:middle;
+    margin-bottom: 1em;
+    border-radius: 5px;
+}
+
+.alert-warning {
+    color: #9F6000;
+    background-color: #FEEFB3;
+}
+
+.alert-info {
+    color: #00529B;
+    background-color: #BDE5F8;
+}
+
+.alert-error {
+    color: #D8000C;
+    background-color: #FFD2D2;
+}
+
+.alert-success {
+    color: #4F8A10;
+    background-color: #DFF2BF;
+}
+
+.alert-success-title {
+    font-size: 2em;
+    color: darkgreen;
+    font-weight: bold;
+}
+
+.alert-warning-title {
+    font-size: 2em;
+    color: darkorange;
+    font-weight: bold;
+}
+
+.alert-info-title {
+    font-size: 2em;
+    color: darkblue;
+    font-weight: bold;
+}
+
+.alert-error-title {
+    font-size: 2em;
+    color: darkred;
+    font-weight: bold;
+}
+
+.alert-box-message {
+    font-size: 1.1em;
+}
+
+.reply-username {
+    display: block;
+    width: 100%;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.reply-timestamp {
+    display: block;
+    width: 100%;
+    font-size: 9px;
+    font-style: italic;
+}
+
+form.action_form {
+    font-size: 11px;
+    display: block;
+    clear: none;
+    width: 30%;
+    float: left;
+    margin-right: 10px;
+    z-index: 0;
+}
+
+form.action_form > button > i {
+    font-size: 15px;
+}
+
+footer.page-footer {
+    z-index: 99 !important;
+}
